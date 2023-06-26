@@ -11,7 +11,7 @@ You can also download the application from Google Drive ( https://drive.google.c
 
 
 
-Features :-
+## Features :-
 
 - Created by Flutter
 - Auth
@@ -25,7 +25,7 @@ Features :-
 - Api ( Dio )
 
 
-
+## Screens :-
 
 ![Screenshot from 2023-06-26 16-02-00](https://github.com/P-A-NN-D-A/Sooq-App/assets/107498555/f2346067-8a57-47a1-a50c-5a8d395d8e7c)
 ![Screenshot from 2023-06-26 16-02-04](https://github.com/P-A-NN-D-A/Sooq-App/assets/107498555/87ab5021-02a5-449e-b912-f7307e1e8ebb)
