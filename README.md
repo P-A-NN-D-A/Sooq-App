@@ -1,6 +1,13 @@
+# Sooq-App
 
 
+هو تطبيق موبايل قمت بتصميمه لبيع المنتجات
 
+و يمكنك ايضا تحميل التطبيق من جوجل درايف ( https://drive.google.com/drive/folders/1I6OtQaukcv-l6cBoDFaLTY7VqFveYeLK )
+
+It is a mobile application that I designed to sale products
+
+You can also download the application from Google Drive ( https://drive.google.com/drive/folders/1I6OtQaukcv-l6cBoDFaLTY7VqFveYeLK )
 
 
 
