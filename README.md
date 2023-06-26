@@ -1,3 +1,25 @@
+
+
+
+
+
+
+Features :-
+
+- Created by Flutter
+- Auth
+- On boarding pages
+- Theme Mode ( Dark & Light )
+- Shared Prefrence
+- Statemangement ( Bloc Cubit )
+- Clean Archetecture
+- Multible language ( Arabic & English )
+- Determining Current Location
+- Api ( Dio )
+
+
+
+
 ![Screenshot from 2023-06-26 16-02-00](https://github.com/P-A-NN-D-A/Sooq-App/assets/107498555/f2346067-8a57-47a1-a50c-5a8d395d8e7c)
 ![Screenshot from 2023-06-26 16-02-04](https://github.com/P-A-NN-D-A/Sooq-App/assets/107498555/87ab5021-02a5-449e-b912-f7307e1e8ebb)
 ![Screenshot from 2023-06-26 16-02-10](https://github.com/P-A-NN-D-A/Sooq-App/assets/107498555/41996193-7411-4447-a1f9-10c924adfd74)
