@@ -19,7 +19,7 @@ You can also download the application from Google Drive ( https://drive.google.c
 - Theme Mode ( Dark & Light )
 - Shared Prefrence
 - Statemangement ( Bloc Cubit )
-- Clean Archetecture
+- Clean Architecture
 - Multible language ( Arabic & English )
 - Determining Current Location
 - Api ( Dio )
